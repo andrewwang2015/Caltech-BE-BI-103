@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Data directory
+data/
+
+# Images
+*.tif
+*.tiff
+*.png
+*.jpg
+*.TIF
+*.TIFF
+*.JPG
+*.PNG
